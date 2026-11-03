@@ -1,2 +1,1 @@
-hello barli
-this is a feature branch edit
+feature branch conflicting edit
